@@ -10,7 +10,7 @@ direction without exposing the commercially valuable core implementation.
 
 ## How To Read This Repo
 
-Start here if you are evaluating Justin Wilds or Project Desk technically:
+Start here if you are evaluating Project Desk technically:
 
 1. Read [WHAT_THIS_PROVES.md](WHAT_THIS_PROVES.md) for the short evaluator view.
 2. Read [PLATFORM_ARCHITECTURE.md](PLATFORM_ARCHITECTURE.md) for the platform shape.

@@ -12,7 +12,7 @@ authentication.
 
 ```mermaid
 flowchart LR
-    Product["Justin<br/>product and domain judgment"]
+    Product["Product owner<br/>product and domain judgment"]
     Agent["AI coding agent<br/>architecture, implementation, tests"]
     Review["Adversarial review pass<br/>money and auth code only"]
     Repo["Repo<br/>docs, decisions, code, tests"]

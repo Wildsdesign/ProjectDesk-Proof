@@ -1,13 +1,13 @@
 # What This Proves
 
-This repo exists for a technical evaluator who wants to understand what
-Justin Wilds can build without receiving the private Project Desk / Atlier
+This repo exists for a technical evaluator who wants to understand the
+engineering behind Project Desk / Atlier without receiving the private
 production source.
 
 ## The Short Version
 
-Project Desk proves that Justin can build and operate a real, live, hosted
-multi-tenant SaaS product end to end:
+Project Desk demonstrates a real, live, hosted multi-tenant SaaS product,
+built and operated end to end:
 
 - an in-house OAuth 2.1 authorization server, not just a consumer of one
 - a command/event architecture enforcing a single write surface across every
