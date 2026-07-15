@@ -47,10 +47,10 @@ company strategy. Those stay private.
 
 ```mermaid
 flowchart TB
-    Core["Atlier platform\naccounts, tenancy, command layer, OAuth 2.1 authorization server"]
-    Desk["Project Desk\nqueues, project Shape, handoffs"]
-    MCP["Hosted MCP connector\nstateless streamable HTTP, per-account scoping"]
-    Clients["Connected AI clients\nClaude Code, Claude Desktop, Codex, ChatGPT"]
+    Core["Atlier platform<br/>accounts, tenancy, command layer"]
+    Desk["Project Desk<br/>queues, Shape, handoffs"]
+    MCP["Hosted MCP connector<br/>OAuth 2.1, per-account scoping"]
+    Clients["Connected AI clients<br/>Claude Code, Desktop, Codex, ChatGPT"]
 
     Core --> Desk
     Desk --> MCP

@@ -24,8 +24,8 @@ flowchart LR
         GPT["ChatGPT"]
     end
 
-    MCP["Hosted MCP connector\nOAuth 2.1, per-account scoping"]
-    Cmd["Command layer\nthe only write surface"]
+    MCP["Hosted MCP connector<br/>OAuth 2.1, per-account scoping"]
+    Cmd["Command layer<br/>the only write surface"]
     Data[("Per-tenant work substrate")]
 
     Clients --> MCP

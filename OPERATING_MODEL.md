@@ -12,11 +12,11 @@ authentication.
 
 ```mermaid
 flowchart LR
-    Product["Justin\nproduct and domain judgment"]
-    Agent["AI coding agent\narchitecture, implementation, tests"]
-    Review["Adversarial review pass\nmoney and auth code only"]
-    Repo["Repo\ndocs, decisions, code, tests"]
-    App["Running product\nlive deployment + validation"]
+    Product["Justin<br/>product and domain judgment"]
+    Agent["AI coding agent<br/>architecture, implementation, tests"]
+    Review["Adversarial review pass<br/>money and auth code only"]
+    Repo["Repo<br/>docs, decisions, code, tests"]
+    App["Running product<br/>live deployment + validation"]
 
     Product --> Agent
     Agent --> Review
