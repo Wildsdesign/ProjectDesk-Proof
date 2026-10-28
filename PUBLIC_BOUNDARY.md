@@ -1,6 +1,6 @@
 # Public Boundary
 
-Project Desk and Atlier have real market value. This proof repo is
+This proof repo is
 intentionally strategic and architectural rather than cloneable.
 
 ## Safe To Show

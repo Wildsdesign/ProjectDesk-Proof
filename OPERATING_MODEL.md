@@ -48,5 +48,4 @@ force-disconnected every existing user on deploy. Those are the kind of
 defects that are easy to introduce quickly with AI-assisted development and
 easy to miss without a deliberate second pass looking for them.
 
-That operating model — not just the product it produced — is part of the
-asset.
+That operating model, not just the product it produced, is part of the practice.

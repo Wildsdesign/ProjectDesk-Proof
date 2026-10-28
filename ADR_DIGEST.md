@@ -47,13 +47,3 @@ user-authored content needs an explicit boundary against prompt injection
 through that content. This decision draws that boundary at the architecture
 level rather than relying on each integration to remember it.
 
-## Founding Eligibility Locked at Signup
-
-**Decision:** Early-access pricing eligibility is fixed at the moment an
-account is created, not evaluated dynamically against a live counter at
-checkout time.
-
-**Why it matters:** A live-counter design creates a race condition between
-checking eligibility and completing payment. Locking eligibility at signup
-removes the race entirely — the answer can never change between when a user
-is told they qualify and when they pay.

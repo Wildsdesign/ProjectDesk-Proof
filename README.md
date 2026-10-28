@@ -3,10 +3,10 @@
 Curated technical proof artifact for Project Desk, an agent-native work desk
 built on the Atlier platform, by Wilds, Inc.
 
-This repository is intentionally **not** the production source tree. It is a
+This repository is intentionally **not** the private source tree. It is a
 public-reviewable architecture and product-thinking artifact that shows the
 platform shape, tenancy model, operating discipline, and reflective-layer
-direction without exposing the commercially valuable core implementation.
+direction without exposing the private implementation.
 
 ## How To Read This Repo
 
@@ -31,8 +31,6 @@ coding agents across real projects:
 - a command/event architecture with one enforced write surface, so a human UI
   and a connected AI agent are never looking at two different truths
 - per-account tenant isolation at the platform layer
-- live production billing with a disciplined review process for money-path
-  code
 - cross-vendor protocol compatibility work — diagnosing and fixing real
   interoperability defects across independently-built AI clients
 - Azure-first deployment

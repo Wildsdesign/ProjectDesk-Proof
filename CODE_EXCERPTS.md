@@ -2,8 +2,7 @@
 
 These excerpts are intentionally small, sanitized, and non-runnable. Their
 job is to show implementation style without exposing production source,
-endpoint maps, schemas, credentials, resource names, or commercially
-sensitive internals.
+endpoint maps, schemas, credentials, resource names, or sensitive internals.
 
 | File | Purpose |
 | --- | --- |

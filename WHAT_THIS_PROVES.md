@@ -13,8 +13,6 @@ built and operated end to end:
 - a command/event architecture enforcing a single write surface across every
   client (human UI and connected AI agents alike)
 - per-account tenant isolation as a first-class platform concern
-- live production billing with a disciplined review process for money-path
-  code
 - cross-vendor protocol interoperability engineering — real defects found
   and fixed across independently-built AI clients
 - AI-assisted execution without losing human product judgment
@@ -64,5 +62,4 @@ This repo does not prove every private implementation detail of Project Desk
 or Atlier. It is not a runnable clone and should not become one.
 
 For deeper evaluation, use this repo as a public architecture and operating
-artifact, then request a guided technical walkthrough if a private review is
-appropriate.
+artifact.
